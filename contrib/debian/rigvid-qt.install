@@ -1,0 +1,6 @@
+usr/local/bin/rigvid-qt usr/bin
+share/pixmaps/rigvid32.xpm usr/share/pixmaps
+share/pixmaps/rigvid16.xpm usr/share/pixmaps
+share/pixmaps/rigvid128.png usr/share/pixmaps
+debian/rigvid-qt.desktop usr/share/applications
+debian/rigvid-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,11 @@
+[Protocol]
+exec=rigvid-qt '%u'
+protocol=rigvid
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

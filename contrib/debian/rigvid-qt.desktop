@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Rigvid 
+Comment=Rigvid P2P Cryptocurrency
+Comment[fr]=Rigvid, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Rigvid, eşten eşe kriptografik sanal para birimi
+Exec=rigvid-qt %u
+Terminal=false
+Type=Application
+Icon=rigvid128
+MimeType=x-scheme-handler/rigvid;
+Categories=Office;Finance;
+StartupWMClass=rigvid-qt
