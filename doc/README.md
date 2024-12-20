@@ -28,7 +28,7 @@ Drag Rigvid-Qt to your applications folder, and then run Rigvid-Qt.
 
 * See the documentation at the [Rigvid Wiki](https://github.com/rigvid)
 for help and more information.
-* Join our Discord server [Discord Server](https://discord.gg/FmumNCgh)
+* Join our Discord server [Discord Server](https://discord.gg/mMgtTMCZ)
 
 Building
 ---------------------
@@ -56,7 +56,7 @@ The Rigvid repo's [root README](/README.md) contains relevant information on the
 
 ### Resources
 * Discuss on the [Rigvid Homepage](https://rigvid.vip/).
-* Join the [Rigvid Discord](https://discord.gg/FmumNCgh).
+* Join the [Rigvid Discord](https://discord.gg/mMgtTMCZ).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

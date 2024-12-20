@@ -1491,9 +1491,9 @@ Are you sure?</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-        https://discord.gg/FmumNCgh</source>
+        https://discord.gg/mMgtTMCZ</source>
         <translation>지원 언어가 없거나 번역이 불완전한가요? 번역을 도와주세요 :
-        https://discord.gg/FmumNCgh</translation>
+        https://discord.gg/mMgtTMCZ</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
