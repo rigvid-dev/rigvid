@@ -34,6 +34,6 @@ Links:
 
 • [Twitter](https://twitter.com/rigvid_vip)
 
-• [Discord](https://discord.gg/mMgtTMCZ)
+• [Discord](https://discord.gg/vqbfRYeK46)
 
 ---

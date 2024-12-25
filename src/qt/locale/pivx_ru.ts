@@ -1611,9 +1611,9 @@ NODES</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-        https://discord.gg/mMgtTMCZ</source>
+        https://discord.gg/vqbfRYeK46</source>
         <translation>Отсутствует ваш язык или заметили незавершенный перевод? Вы можете помочь нам стать лучше:
-        https://discord.gg/mMgtTMCZ</translation>
+        https://discord.gg/vqbfRYeK46</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>

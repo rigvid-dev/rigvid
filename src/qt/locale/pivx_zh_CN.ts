@@ -1497,9 +1497,9 @@ Are you sure?</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-        https://discord.gg/mMgtTMCZ</source>
+        https://discord.gg/vqbfRYeK46</source>
         <translation>语言缺失或翻译不完整?帮助贡献翻译在这里:
-        https://discord.gg/mMgtTMCZ</translation>
+        https://discord.gg/vqbfRYeK46</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
