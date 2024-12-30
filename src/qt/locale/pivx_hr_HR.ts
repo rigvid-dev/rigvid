@@ -1577,9 +1577,9 @@ NODEOVI</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-        https://discord.gg/vqbfRYeK46</source>
+        https://invite.rigvid.vip</source>
         <translation>Jezik nedostaje ili prijevod nije potpun? Pomozite s prijevodom ovdje:
-        https://discord.gg/vqbfRYeK46</translation>
+        https://invite.rigvid.vip</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>

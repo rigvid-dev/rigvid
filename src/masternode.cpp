@@ -368,28 +368,35 @@ bool CMasternode::IsInputAssociatedWithPubkey() const
 
 CAmount CMasternode::GetMasternodeNodeCollateral(int nHeight) 
 {
-    if (nHeight > 2500000)	return 25000 * COIN;
-    if (nHeight > 1500000)	return 20000 * COIN;
-    if (nHeight > 500000)	return 15000 * COIN;
-    if (nHeight > 50000)	return 10000 * COIN;
-    if (nHeight > 1)		return 5000 * COIN;
+    if (nHeight > 2800000)	return 25000 * COIN;
+    if (nHeight > 1800000)	return 20000 * COIN;
+    if (nHeight > 1000000)	return 15000 * COIN;
+    if (nHeight > 400000)	return 10000 * COIN;
+    if (nHeight > 175000)	return 5000 * COIN;
+    if (nHeight > 125000)	return 2500 * COIN;
+    if (nHeight > 78000)	return 1000  * COIN;
+    if (nHeight > 38000)	return 500   * COIN;
+    if (nHeight > 1)		return 5000  * COIN;
     return 25000 * COIN;
 }
 
 CAmount CMasternode::GetBlockValue(int nHeight)
 {
-    if (nHeight > 3000000)	return 0.5 * COIN;
-    if (nHeight > 2500000)	return 1   * COIN;
-    if (nHeight > 2000000)	return 2   * COIN;
-    if (nHeight > 1500000)	return 3   * COIN;
-    if (nHeight > 1000000)	return 4   * COIN;
-    if (nHeight > 700000)	return 5   * COIN;
-    if (nHeight > 500000)	return 6   * COIN;
-    if (nHeight > 400000)	return 7   * COIN;
-    if (nHeight > 300000)	return 6   * COIN;
-    if (nHeight > 200000)	return 5   * COIN;
-    if (nHeight > 100000)	return 4   * COIN;
-    if (nHeight > 50000)	return 3   * COIN;
+    if (nHeight > 3500000)	return 0.5 * COIN;
+    if (nHeight > 2800000)	return 1   * COIN;
+    if (nHeight > 2300000)	return 2   * COIN;
+    if (nHeight > 1800000)	return 3   * COIN;
+    if (nHeight > 1400000)	return 4   * COIN;
+    if (nHeight > 1200000)	return 5   * COIN;
+    if (nHeight > 1000000)	return 6   * COIN;
+    if (nHeight > 800000)	return 7   * COIN;
+    if (nHeight > 700000)	return 6   * COIN;
+    if (nHeight > 500000)	return 5   * COIN;
+    if (nHeight > 400000)	return 4   * COIN;
+    if (nHeight > 175000)	return 2   * COIN;
+    if (nHeight > 125000)	return 1   * COIN;
+    if (nHeight > 78000)	return 0.5 * COIN;
+    if (nHeight > 38000)	return 0.2 * COIN;
     if (nHeight > 10000)	return 2   * COIN;
     if (nHeight > 1000)		return 1   * COIN;
     if (nHeight >= 1)		return 300 * COIN;
